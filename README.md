@@ -116,5 +116,5 @@ export RUTRACKER_PASSWORD=your_rutracker_password
 ```
 ```bash
 # Запустите приложение
-go run main.go
+go build main.go
 ```
